@@ -1,0 +1,1296 @@
+pubmed | PubMed | PubMed bibliographic record
+ALL | All Fields : All terms from all searchable fields
+UID | UID : Unique number assigned to publication
+FILT | Filter : Limits the records
+TITL | Title : Words in title of publication
+MESH | MeSH Terms : Medical Subject Headings assigned to publication
+MAJR | MeSH Major Topic : MeSH terms of major importance to publication
+JOUR | Journal : Journal abbreviation of publication
+AFFL | Affiliation : Author's institutional affiliation and address
+ECNO | EC/RN Number : EC number for enzyme or CAS registry number
+SUBS | Supplementary Concept : CAS chemical name or MEDLINE Substance Name
+PDAT | Date - Publication : Date of publication
+EDAT | Date - Entry : Date publication first accessible through Entrez
+VOL | Volume : Volume number of publication
+PAGE | Pagination : Page number(s) of publication
+PTYP | Publication Type : Type of publication (e.g., review)
+LANG | Language : Language of publication
+ISS | Issue : Issue number of publication
+SUBH | MeSH Subheading : Additional specificity for MeSH term
+SI | Secondary Source ID : Cross-reference from publication to other databases
+MHDA | Date - MeSH : Date publication was indexed with MeSH terms
+TIAB | Title/Abstract : Free text associated with Abstract/Title
+OTRM | Other Term : Other terms associated with publication
+COLN | Author - Corporate : Corporate Author of publication
+CNTY | Place of Publication : Country of publication
+PAPX | Pharmacological Action : MeSH pharmacological action pre-explosions
+GRNT | Grants and Funding : NIH Grant Numbers
+MDAT | Date - Modification : Date of last modification
+CDAT | Date - Completion : Date of completion
+PID | Publisher ID : Publisher ID
+FAUT | Author - First : First Author of publication
+FULL | Author : Full Author Name(s) of publication
+FINV | Investigator : Full name of investigator
+TT | Transliterated Title : Words in transliterated title of publication
+LAUT | Author - Last : Last Author of publication
+PPDT | Print Publication Date : Date of print publication
+EPDT | Electronic Publication Date : Date of Electronic publication
+LID | Location ID : ELocation ID
+CRDT | Date - Create : Date publication first accessible through Entrez
+BOOK | Book : ID of the book that contains the document
+ED | Editor : Section's Editor
+ISBN | ISBN : ISBN
+PUBN | Publisher : Publisher's name
+AUCL | Author Cluster ID : Author Cluster ID
+EID | Extended PMID : Extended PMID
+DSO | DSO : Additional text from the summary
+AUID | Author - Identifier : Author Identifier
+PS | Subject - Personal Name : Personal Name as Subject
+COIS | Conflict of Interest Statements : Conflict of Interest Statements
+WORD | Text Word : Free text associated with publication
+P1DAT | P1DAT : Date publication first accessible through Solr
+--------------------------------------------------------------
+protein | Protein | Protein sequence record
+ALL | All Fields : All terms from all searchable fields
+UID | UID : Unique number assigned to each sequence
+FILT | Filter : Limits the records
+WORD | Text Word : Free text associated with record
+TITL | Title : Words in definition line
+KYWD | Keyword : Nonstandardized terms provided by submitter
+AUTH | Author : Author(s) of publication
+JOUR | Journal : Journal abbreviation of publication
+VOL | Volume : Volume number of publication
+ISS | Issue : Issue number of publication
+PAGE | Page Number : Page number(s) of publication
+ORGN | Organism : Scientific and common names of organism, and all higher levels of taxonomy
+ACCN | Accession : Accession number of sequence
+PACC | Primary Accession : Does not include retired secondary accessions
+GENE | Gene Name : Name of gene associated with sequence
+PROT | Protein Name : Name of protein associated with sequence
+ECNO | EC/RN Number : EC number for enzyme or CAS registry number
+PDAT | Publication Date : Date sequence added to GenBank
+MDAT | Modification Date : Date of last update
+SUBS | Substance Name : CAS chemical name or MEDLINE Substance Name
+PROP | Properties : Classification by source qualifiers and molecule type
+SQID | SeqID String : String identifier for sequence
+GPRJ | BioProject : BioProject
+SLEN | Sequence Length : Length of sequence
+MLWT | Molecular Weight : Molecular Weight
+FKEY | Feature key : Feature annotated on sequence
+PORG | Primary Organism : Scientific and common names of primary organism, and all higher levels of taxonomy
+ASSM | Assembly : Assembly
+DIV | Division : Division
+STRN | Strain : Strain
+ISOL | Isolate : Isolate
+CULT | Cultivar : Cultivar
+BRD | Breed : Breed
+--------------------------------------------------------------
+nuccore | Nucleotide | Core Nucleotide db
+ALL | All Fields : All terms from all searchable fields
+UID | UID : Unique number assigned to each sequence
+FILT | Filter : Limits the records
+WORD | Text Word : Free text associated with record
+TITL | Title : Words in definition line
+KYWD | Keyword : Nonstandardized terms provided by submitter
+AUTH | Author : Author(s) of publication
+JOUR | Journal : Journal abbreviation of publication
+VOL | Volume : Volume number of publication
+ISS | Issue : Issue number of publication
+PAGE | Page Number : Page number(s) of publication
+ORGN | Organism : Scientific and common names of organism, and all higher levels of taxonomy
+ACCN | Accession : Accession number of sequence
+PACC | Primary Accession : Does not include retired secondary accessions
+GENE | Gene Name : Name of gene associated with sequence
+PROT | Protein Name : Name of protein associated with sequence
+ECNO | EC/RN Number : EC number for enzyme or CAS registry number
+PDAT | Publication Date : Date sequence added to GenBank
+MDAT | Modification Date : Date of last update
+SUBS | Substance Name : CAS chemical name or MEDLINE Substance Name
+PROP | Properties : Classification by source qualifiers and molecule type
+SQID | SeqID String : String identifier for sequence
+GPRJ | BioProject : BioProject
+SLEN | Sequence Length : Length of sequence
+FKEY | Feature key : Feature annotated on sequence
+PORG | Primary Organism : Scientific and common names of primary organism, and all higher levels of taxonomy
+COMP | Component Accession : Component accessions for an assembly
+ASSM | Assembly : Assembly
+DIV | Division : Division
+STRN | Strain : Strain
+ISOL | Isolate : Isolate
+CULT | Cultivar : Cultivar
+BRD | Breed : Breed
+BIOS | BioSample : BioSample
+--------------------------------------------------------------
+ipg | Identical Protein Groups | Identical Protein Groups DB
+ALL | All Fields : All terms from all searchable fields
+UID | UID : Unique number assigned to each sequence
+FILT | Filter : Limits the records
+WORD | Text Word : Free text associated with record
+TITL | Title : Words in definition line
+ORGN | Organism : Scientific and common names of organism, and all higher levels of taxonomy
+ACCN | Accession : Accession number of sequence (both protein and nucleotide)
+PACC | Primary Accession : Primary Accession
+PROT | Protein Name : Name of protein associated with sequence
+SLEN | Sequence Length : Length of sequence
+ProtCount | Protein Count : Protein count in this group
+GPRJ | BioProject : BioProject
+PROP | Properties : Classification by source qualifiers and molecule type
+DIV | Division : Division
+MDAT | Modification Date : Date of last update
+MLWT | Molecular Weight : Molecular Weight
+CDAT | Creation Date : Date IPG created
+UDAT | Update Date : Date IPG last updated
+OCNT | Organism Count : Count of distinct organisms in this group
+ASSM | Assembly : Assembly
+--------------------------------------------------------------
+nuccore | Nucleotide | Core Nucleotide db
+ALL | All Fields : All terms from all searchable fields
+UID | UID : Unique number assigned to each sequence
+FILT | Filter : Limits the records
+WORD | Text Word : Free text associated with record
+TITL | Title : Words in definition line
+KYWD | Keyword : Nonstandardized terms provided by submitter
+AUTH | Author : Author(s) of publication
+JOUR | Journal : Journal abbreviation of publication
+VOL | Volume : Volume number of publication
+ISS | Issue : Issue number of publication
+PAGE | Page Number : Page number(s) of publication
+ORGN | Organism : Scientific and common names of organism, and all higher levels of taxonomy
+ACCN | Accession : Accession number of sequence
+PACC | Primary Accession : Does not include retired secondary accessions
+GENE | Gene Name : Name of gene associated with sequence
+PROT | Protein Name : Name of protein associated with sequence
+ECNO | EC/RN Number : EC number for enzyme or CAS registry number
+PDAT | Publication Date : Date sequence added to GenBank
+MDAT | Modification Date : Date of last update
+SUBS | Substance Name : CAS chemical name or MEDLINE Substance Name
+PROP | Properties : Classification by source qualifiers and molecule type
+SQID | SeqID String : String identifier for sequence
+GPRJ | BioProject : BioProject
+SLEN | Sequence Length : Length of sequence
+FKEY | Feature key : Feature annotated on sequence
+PORG | Primary Organism : Scientific and common names of primary organism, and all higher levels of taxonomy
+COMP | Component Accession : Component accessions for an assembly
+ASSM | Assembly : Assembly
+DIV | Division : Division
+STRN | Strain : Strain
+ISOL | Isolate : Isolate
+CULT | Cultivar : Cultivar
+BRD | Breed : Breed
+BIOS | BioSample : BioSample
+--------------------------------------------------------------
+structure | Structure | Three-dimensional molecular model
+ALL | All Fields : All terms from all searchable fields
+UID | MMDB ID : mmdbId
+FILT | Filter : Limits the records
+ACCN | PDB Accession : PDB Accession
+ECNO | EC/RN Number : EC/RN Number
+RESO | Resolution : Resolution
+EXPM | Experimental Method : Experimental Method
+TITL | Title : Citation Title
+ABS | Abstract : The abstracts of all PubMed references that are linked to the structure
+AUTH | Author : Citation Author
+PCLA | PDB Class : Pdb Class
+PSRC | PDB Source : Pdb Source
+PDSC | PDB Description : PdbDescr
+PCOM | PDB Comment : PdbComment
+PDD | PDB Deposit Date : PDB Deposit Date
+DDAT | MMDB Entry Date : MMDB Deposit Date
+MDAT | MMDB Modify Date : MMDB Modify Date
+LCOD | PDB Chemical Code : chemical ligand codes taken from PDB file
+LNAM | Chemical Name : chemical ligand names taken from PDB file
+CSYN | Chemical Synonyms : Chemical synonyms taken from PubChem
+LDES | Chemical Description : Chemical description taken from PDB
+ORGN | Organism : Organism Name
+TXID | Taxonomy ID : Numerical taxonomy identifier
+PMC | BioUnit Protein Molecule Count : Count of Protein Molecules in BioUnit
+DMC | BioUnit DNA Molecule Count : Count of DNA molecules in BioUnit
+RMC | BioUnit RNA Molecule Count : Count of RNA molecules in BioUnit
+BPC | BioUnit Biopolymer Count : Count of Biopolymers in BioUnit
+LCOU | BioUnit Chemical Count : Count of Chemical Molecules in BioUnit
+OCOU | BioUnit Other Molecule Count : Count of Other Molecules in BioUnit
+JOUR | Journal : Source journal of structure
+CDID | Conserved Domain PSSMID : identifier for a conserved domain cluster
+CDSN | Conserved Domain Short Name : Short name of the domain of a conserved domain cluster
+CDDT | Conserved Domain Title : Title of the domain of a conserved domain cluster
+CDDF | Conserved Domain Description : Defline of the domain of a conserved domain cluster
+SFID | Conserved Domain Superfamily PSSMID : identifier for a superfamily domain cluster
+SPFN | Conserved Domain Superfamily Short Name : Short name of a superfamily of conserved domain clusters
+SPTL | Conserved Domain Superfamily Title : Title of a superfamily of conserved domain clusters
+SPDF | Conserved Domain Superfamily Description : Definition line of a superfamily cluster of conserved domain
+OS | Oligomeric State : Oligomeric state of the biological unit
+PNAM | Protein Name : Names of Protein Molecules
+GN | Gene Name : Names of genes associated with protein molecules
+GDSC | Gene Description : Descriptions of genes associated with protein molecules
+DNAM | DNA Name : Names of DNA Molecules
+RNAM | RNA Name : Names of RNA Molecules
+ONAM | Other Molecule Name : Names of Other Molecules
+APMC | ASU Protein Molecule Count : Count of Protein Molecules in ASU
+ADMC | ASU DNA Molecule Count : Count of DNA molecules in ASU
+ARMC | ASU RNA Molecule Count : Count of RNA molecules in ASU
+ABPC | ASU Biopolymer Count : Count of Biopolymers in ASU
+ALCT | ASU Chemical Count : Count of Chemicals in ASU
+AOCT | ASU Other Molecule Count : Count of other molecules in ASU
+MLWT | BioUnit Molecular Weight : Molecular Weight of the default Biological Assembly
+FC | Number of PDB Records per Structure : Number of PDB records that have been combined to define a complete biological assembly. (For most structures, one record suffices; very large structures were split by the PDB into multiple records.)
+--------------------------------------------------------------
+genome | Genome | Genomic sequences, contigs, and maps
+ALL | All Fields : All terms from all searchable fields
+UID | UID : Unique number assigned to genome
+FILT | Filter : Limits the records
+ORGN | Organism : Organism
+PID | ProjectID : Project ID
+PRJA | Project Accession : Project Accession
+PRJT | Project Type : Project Type
+DFLN | Title : Genome short description
+DSCR | Genome description : Genome full description
+STAT | Status : Bioproject status
+AID | AssemblyID : Release ID of full assembly
+AACC | Assembly Accession : Accession of full assembly
+ANAM | Assembly Name : Name of full assembly
+GI | Replicon GI : Replicon GI
+ACCN | Replicon accession : Replicon Accession
+RNAM | Replicon name : Replicon Name
+PACC | Protein Accession : Protein Accession
+PROT | Protein Name : Protein Name
+PGI | Protein GI : protein GI
+GNID | GeneID : GeneID
+GENE | Gene Name : Gene Name
+LTAG | Locus Tag : Locus Tag
+WGSP | WGS prefix : WGS Prefix
+PMID | PubMed ID : Unique identifier from PubMed
+BIOP | biological properties : Biological Properties
+PCID | ProtClust ID : Protein Clusters ID
+PROP | Properties : Project/Organism Properties
+CDT | Create Date : Create Date
+STRN | Strain : Organism Strain
+HOST | Host : Organism Host
+--------------------------------------------------------------
+annotinfo | AnnotInfo | Annotinfo Database
+ALL | All Fields : All terms from all searchable fields
+UID | UID : Unique number assigned to genome
+FILT | Filter : Limits the records
+ORGN | Organism : Organism
+ANOT | AnnotReleaseId : Annotation Release ID
+ARID | Annot Target Set Accession : Accession of Annotation target set
+ASAC | Assembly Accession : Accessions of annotated assemblies
+FREZ | Freeze Date : Freeze Date
+ENDT | Sequence Release Date : Sequence Release Date
+MILE | Milestones : Completed Milestones in annotation pipeline
+STUS | Build Status : Build Status
+ASTS | Annot Status : Annotation Status
+AVER | Annot Version : Annotation Version
+ANAM | Annot Name : Annot Name
+--------------------------------------------------------------
+assembly | Assembly | Genome Assembly Database
+ALL | All Fields : All terms from all searchable fields
+UID | UID : Unique number assigned to publication
+FILT | Filter : Limits the records
+ACCN | Accession : Chromosome accessions
+ASAC | Assembly Accession : Space delimited assembly accessions w/ & w/o versions
+ASLV | Assembly Level : How assembled is this assembly. 'Contig' to 'Chromosome'
+TXID | Taxonomy ID : Taxonomy ID
+ORGN | Organism : Exploded organism names
+RUID | RefSeq ID : Id of RefSeq Assembly.
+GUID | GenBank ID : Id of GenBank synonym of this Assembly.
+UIDS | All Uids : Pair-id, GB-id, and RS-id of this Assembly.
+PROJ | BioProject IDs and Accessions : Uid and accessions of this assembly's projects
+SAMP | BioSample : BioSample Accession and Id
+NAME | Assembly Name : Assembly name
+ALLN | All Names : All names, space separated
+DESC | Description : Assembly description
+COV | Coverage : Sequencing coverage
+TYPE | Assembly Type : Type of the assembly
+SRDT | Date - Sequences Release : Date the most recent sequence went live in ID
+UPDT | Date - Assembly Update : Date the assembly was last updated
+LEN | Total Sequence Length in Mbp : Total length of chromosome/genome including bases and gaps divided by 1,000,000.
+REPL | Chromosome Count : Number of chromosomes in assembly
+PLAC | Placed Scaffolds Count : Number of placed scaffolds
+UNLO | Unlocalized Scaffolds Count : Number of unordered(unlocalized) scaffolds belonging to chromosomes
+UNPL | Unplaced Scaffolds Count : Number of unplaced scaffolds which do not belong to any chromosome, ie ChrUn
+CN50 | Contig N50 : Contig length at which 50% of total bases in assembly are in contigs of that length or greater
+SN50 | Scaffold N50 : Scaffold length at which 50% of total bases in assembly are in contigs of that length or greater
+CL50 | Contig L50 : Number of contigs that are greater than or equal to the N50 length.
+SL50 | Scaffold L50 : Number of scaffolds that are greater than or equal to the N50 length.
+CNTG | Contig Count : Number of contigs
+UNGL | Ungapped Length in Mbp : Total length excluding gaps in chromosome/genome divided by 1,000,000
+PROP | Properties : Properties
+SUBO | Submitter Organization : Organization that submitted this assembly
+INFR | Infraspecific Name : Infraspecific Name: breed, cultivar, strain, ecotype
+ISOL | Isolate : Isolate name
+SEX | Sex : Sex
+ASMM | Assembly Method : Assembly Method
+GCOV | Genome Coverage : Genome Coverage
+TECH | Sequencing Technology : Sequencing Technology
+EXFV | Expected Final Version : Expected Final Version
+RGAS | Reference Guided Assembly : Reference Guided Assembly
+SCAM | Single Cell Amplification : Single Cell Amplification
+RCAT | RefSeq Category : RefSeq Category
+FTYP | From Type Material : From Type Material
+NFRS | Excluded from RefSeq : Reasons assembly was excluded from RefSeq
+GRLS | Date - GenBank Assembly Release : Date the GenBankassembly was first released
+RRLS | Date - RefSeq Assembly Release : Date the RefSeq assembly was first released
+RTYP | Release Type : Release Type
+RLEN | Total Sequence Length : Total length of chromosome/genome including bases and gaps
+LINK | Linked Assembly : Linked Assembly accession
+TCS | Taxonomy Check Status : Taxonomy Check Status (ANI)
+--------------------------------------------------------------
+bioproject | BioProject | BioProject Database
+ALL | All Fields : All terms from all searchable fields
+UID | UID : Unique number assigned to publication
+FILT | Filter : Limits the records
+ORGN | Organism : Organism
+PRJA | Project Accession : Project Accession
+TYPE | Project Type : Project Type
+STPE | Project Subtype : Project Subtype
+DATE | Registration Date : Registration Date
+TITL | Title : Title
+CEN | Submitter Organization : Submitter Organization(s)
+ACCN | Replicon accession : Space delimited GenBank or RefSeq Replicon Accessions
+RTYP | Replicon type : Replicon Type
+RNME | Replicon name : Replicon Name
+LTP | Locus Tag Prefix : Locus Tag Prefix
+WORD | Description : Organism/Project Description
+KWRD | Keyword : Keyword
+PROP | Properties : Project/Organism Properties
+DTPE | Project Data Type : Project Data Type
+GRNT | Grant ID : Grant ID
+FUND | Funding Agency : Funding Agency
+PMID | PMID : Pubmed ID
+DOID | DOI : DOI ID
+PID | ProjectID : Project ID
+RELV | Relevance : Relevance
+ANME | Assembly name : Assembly Name
+BPRJ | BioProject ID : BioProject ID or accession
+TPRJ | Top Bioproject : Top Bioproject ID
+WGSA | WGS Accession : WGS Accessions
+AACC | Assembly Accession : Assembly Accession
+ATNM | Attribute Name : Attribute Name
+ATTR | Attribute : Attribute
+--------------------------------------------------------------
+biosample | BioSample | BioSample Database
+ALL | All Fields : All terms from all searchable fields
+UID | UID : Unique number assigned to publication
+FILT | Filter : Limits the records
+ACCN | Accession : Accession number of sequence
+TITL | Title : Words in definition line
+PROP | Properties : Classification by source qualifiers and molecule type
+WORD | Text Word : Free text associated with record
+ORGN | Organism : Scientific and common names of organism, and all higher levels of taxonomy
+AUTH | Author : Author(s) of publication
+PDAT | Publication Date : Date sequence added to GenBank
+MDAT | Modification Date : Date of last update
+ATNM | Attribute Name : Attribute Name
+ATTR | Attribute : Attribute
+CEN | Submitter Organization : Submitter Organization(s)
+--------------------------------------------------------------
+blastdbinfo | BlastdbInfo | BlastdbInfo Database
+ALL | All Fields : All terms from all searchable fields
+UID | UID : Unique number assigned to publication
+FILT | Filter : Limits the records
+DB | Database Name : Official name of the database
+TITL | Database Title : Words in the title of database (e.g., "NCBI Transcript Reference Sequences")
+DATE | Last Update : Date of last database update
+ORGN | Database Organism Taxid : Organism Taxid
+ASM | Genome Collection Assembly Name : Genome Collection Assembly Name
+SEQT | Blast Sequence Type : One of genomic, cdna, other-dna, or protein, of which genomic and cdna could be further specified
+SEQS | Blast Sequence Strategy : Appropriate sequence strategy for the sequence type specified
+SRC | Blast Database Source : States where the sequences came from, e.g., genbank, refseq, trace, etc.
+KEYW | Keyword : Search term identifying this database entry
+PRJ | NCBI Genome Project ID : NCBI Genome Project Identifier
+GPB | Gpipe Build Name : Gpipe Build
+WGPR | NCBI WGS Project ID : NCBI WGS Project Identifier
+--------------------------------------------------------------
+books | Books | Books Database
+ALL | All Fields : All terms from all searchable fields
+UID | UID : Unique number assigned to publication
+FILT | Filter : Limits the records
+AUTH | Author : Section's author
+CA | Corporate Author : Corporate Author of publication
+FA | Full Author Name : Full Author Name(s) of publication
+FE | Full Editor Name : f
+TITL | Title : Section's title
+TYPE | Type : Section's type
+STXT | Full Text : Section's full text
+CONP | Concept Phrases : Generated keywords
+BOOK | Book : ID of the book that contains the document
+PMID | PMID : PubMed ID
+RMID | RefPMID : Citation search by PmId
+RID | Rid : Book internal ID
+PUBN | Publisher : Publisher's Name
+PDAT | Publication Year : Publication Year
+ISBN | ISBN : ISBN
+ATTR | Attribute : Attributes in key value ordered pairs
+EDIT | Editor : Section's Editor
+RD | Release Date : Release Date
+RT | Resource Type : Resource Type
+AID | Accession ID : Accession ID
+BACI | Book Accession ID : Book Accession ID
+CHID | Chapter Accession ID : Chapter Accession ID
+DN | Disease : Disease
+GS | Gene Name : Gene Name
+PN | Protein Name : Protein Name
+GRNT | Grant Number : NIH Grant Numbers
+MESH | MeSH Terms : Medical Subject Headings assigned to publication
+MAJR | MeSH Major Topic : MeSH terms of major importance to publication
+SUBH | MeSH Subheading : Additional specificity for MeSH term
+PTYP | Publication Type : Type of publication (e.g., review)
+--------------------------------------------------------------
+cdd | Conserved Domains | Conserved Domain Database
+ALL | All Fields : All terms from all searchable fields
+UID | UID : Unique number assigned to publication
+FILT | Filter : Limits the records
+ACCN | Accession : Unique text identifier for a CD
+DB | Database : Which database CD is from (pfam, smart ...)
+TITL | Title : The short descriptive name of a CD, e.g. Rho
+STTL | Subtitle : A short description of the CD
+WORD | Text Word : The long description of the CD
+ORGN | Organism : The root taxonomy node of a CD
+PDAT | Publication Date : The date a CD was published
+MDAT | Modification Date : The date a CD was last modified
+PLEN | PssmLength : Length of the PSSM or domain search model
+AACN | Alternative Accession : Alternative unique text identifier for a CD, from source database
+STRP | Structure Representative : The number of structures in a CD
+SD | The description of sites : The desription of functional sites in a domain
+NS | Number of Sites : The number of functional sites in a domain
+--------------------------------------------------------------
+clinvar | ClinVar | ClinVar Database
+ALL | All Fields : All terms from all searchable fields
+UID | UID : Unique number assigned to variation
+FILT | Filter : Limits the records
+TITL | Name of the ClinVar record : Constructed from variant and phenotype names
+WORD | Text Word : Free text associated with record
+ORGN | Organism : scientific and common names of organism
+MDAT | Modification Date : The last date on which the record was updated
+CHR | Chromosome : Chromosome number or numbers; also 'mitochondrial', 'unknown' properties
+GENE | Gene Name : Symbol or symbols of the gene
+MIM | MIM : MIM number from OMIM
+DIS | Disease/Phenotype : Diseases or traits associated with this record
+ACCN | ClinVar accession : Accession of the genotype/phenotype assertion
+VRID | External allele ID : Public ID of a variant
+TRID | Trait identifier : Public identifier for a trait (e.g. CUI, HPO)
+PROP | Properties : Properties of ClinVar record
+CDAT | Creation Date : The date on which this record first appeared
+PMID | PubMed ID : PubMed ids of accessions linked to the record
+GID | Gene ID : Gene ID
+TID | Taxonomy ID : taxonomy id
+CPOS | Base Position : Chromosome base position
+GFN | Gene Full Name : Gene full name
+SBM | Submitter : Submitter
+VRNM | Variant name : Names used for this allele
+VRTP | Type of variation : Type of sequence change/variant call
+MCNS | Molecular consequence : Consequence of the variation at the molecular level.
+RVST | Review status : Review status
+ALID | AlleleID : Unique identifier assigned to a specific sequence change at a location.
+ORIG | Origin : Origin
+SID | Submitter Batch : Submitter Batch
+CYT | Cytogenetic band : Cytogenetic location computed from sequence coordinates
+GTRT | Accession for a test registered in GTR : Accession for a test registered in GTR
+STNM | Study Name : Study Name
+CMPL | Complexity : Complexity
+C37 | Base Position for Assembly GRCh37 : Chromosome base position for assembly GRCh37
+VLEN | Length of the variant : Length of the variant defined as the difference between reference and alternate, except when there is no lenght difference (then the length of the allele itself)
+ACCN | Nucleotide/Protein Accession : Nucleotide or protein accession
+HGNC | HGNC identifier for human gene : Identifier for Gene assigned by HUGO Gene Nomenclature Committee (HGNC)
+VID | Variation ID : Unique number assigned to variation
+IMOD | Last interpreted : The latest date for each interpretation of a variant
+CLINSIG_LAST_CHANGED | Date of last change to clinical significance : Date of last change to clinical significance
+VACC | Variant Accession : Accession number for the Variant
+RPLD | Replaced Variation ID : Variation ID of a variation replaced by this one
+COMB | Combination Variation ID : Variation ID of a set related to this one
+CSPDI | Canonical SPDI : Canonical SPDI for variation
+COMMONNAME | Common Name : A common name for the variant
+--------------------------------------------------------------
+gap | dbGaP | dbGaP Data
+ALL | All Fields : All terms from all searchable fields
+UID | UID : Unique number assigned to publication
+FILT | Filter : Limits the records
+DISC | Discriminator : Discriminator
+ANCE | Ancestor : Ancestor
+BELO | Belongs To : Belongs To
+ATTR | Attribution : Attribution
+RTST | Is Root Study : Is Root Study
+TLST | Is Top-Level Study : Is Top-Level Study
+STID | Study ID : Study ID
+STNM | Study Name : Study Name
+DIS | Disease : Disease
+PROJ | Project : Project
+GENO | Genotype Platform : Genotype Platform
+SRA | Study Has SRA Components : Study Has SRA components
+STUD | Study : Study
+HASV | Has Variable : Has Variable
+VRID | Variable ID : Variable ID
+VRNM | Variable Name : Variable Name
+VRDS | Variable Description : Variable Description
+VAR | Variable : Variable
+HASD | Has Document : Has Document
+DCID | Document ID : Document ID
+DCNM | Document Name : Document Name
+DOC | Document : Document
+DOCP | Document Part : Document Part
+HASA | Has Analysis : Has Analysis
+ANID | Analysis ID : Analysis ID
+ANNM | Analysis Name : Analysis Name
+ANLS | Analysis : Analysis
+HAST | Has Dataset : Has Dataset
+DSID | Dataset ID : Dataset ID
+DSNM | Dataset Name : Dataset Name
+DS | Dataset : Dataset
+PX | PhenX : PhenX
+HASP | Has PhenX Mapping : Has PhenX Mapping
+ARCH | Study Archive : Study Archive
+MOLE | Molecular Data Type : Molecular Data Type
+PRPH | Primary Phenotype in Study : Primary Phenotype in Study
+DAC | Data Access Committee : Data Access Committee
+DESN | Study Design : Study Design
+CDER | Common Data Element Resource : Common Data Element Resource (e.g. LOINC, PhenX)
+CDET | Common Data Element Term : Common Data Element Term (e.g. PhenX accession)
+--------------------------------------------------------------
+gapplus | GaPPlus | Internal Genotypes and Phenotypes database
+ALL | All Fields : All terms from all searchable fields
+UID | UID : Unique number assigned to entry
+FILT | Filter : Limits the records
+SRC | Source Database : Source Database
+ANID | Analysis ID : Analysis ID
+ANNM | Analysis Name : Analysis Name
+STID | Study ID : Study ID
+STNM | Study Name : Study Name
+PMID | Pubmed ID : Pubmed ID
+RS | Marker RS : Marker RS
+PVLG | PValue Log : PValue Log
+TRT | Trait : Trait
+CHR | Chromosome : Chromosome
+POS | Position : Position
+GENE | Gene : Gene
+FXCL | Functional Class : Functional Class
+--------------------------------------------------------------
+grasp | grasp | grasp Data
+ALL | All Fields : All terms from all searchable fields
+UID | UID : Unique number assigned to publication
+FILT | Filter : Limits the records
+SRC | Source Database : Source Database
+CDAT | Create Date : Create Date
+MDAT | Modification Date : Date of last update
+PMID | PubMed ID : PubMed ID
+PDAT | Publication Date : Publication date
+JOUR | Journal : Journal abbreviation of publication
+TITL | Title : Document title
+RS | Reference SNP ID : Clustered SNP ID (rs)
+CHR | Chromosome : Chromosome
+CPOS | Chromosome Base Position : Position
+PLAT | Platform : Platform
+GENE | Gene Name : Gene Name
+FXN | Function Class : Function Class
+PVAL | Log of P-Value : Log of P-value
+TRT | Phenotype Trait : Phenotype Trait
+POPL | Population : Population
+PCAT | Phenotype Category : Phenotype Category
+--------------------------------------------------------------
+dbvar | dbVar | dbVar records
+ALL | All Fields : All terms from all searchable fields
+UID | UID : Unique number assigned to study or variant in Entrez
+FILT | Filter : Limits the records
+ACC | Accession : Accession of any internal or external identifier. Versions removed from GENBANK accessions.
+AFR | Allele Frequency in African Population : Allele Frequency in African Population
+AGE | Age of Subject : Age of subject in years
+AMR | Allele Frequency in American Population : Allele Frequency in American Population
+ASSM | Assembly : Accession or name of placement assembly
+AUTH | Author : All authors included in journal
+PROJ | BioProject : Accession or Name of associated BioProject
+CH | Chr : Chromosome of placement
+CHR_END | ChrEnd : End of placement on chromosome
+BASE | ChrPos : Start of placement on chromosome
+CLIN | Clinical Interpretation : Clinical interpretation of a variant (controlled vocabulary)
+DISEASE | Clinical Phenotype : Phenotype of sample/subject study or reference specimen
+EAS | Allele Frequency in East Asian Population : Allele Frequency in East Asian Population
+EUR | Allele Frequency in European Population : Allele Frequency in European Population
+FREQ | Global Allele Frequency : Global Allele Frequency
+GENE_NAME | Gene : Name or alias of gene at same location as variant
+HASCLIN | Has Clinical Interpretation : Flag indicating subject has clinical interpretation: 0=no; 1 = yes
+METH | Method Type : Method type (controlled vocabulary)
+MH | MeSH : Medical Subject Headings assigned to publication
+MHID | MeSH ID : NLM MeSH Browser Unique ID
+OT | Object Type : Object type in dbVar (STUDY, VARIANT)
+MIM | OMIM : Online Mendelian Inheritance in Man
+ORG | Organism : Organism name (exploded)
+ALLELE_ORIGIN | Origin : Allele origin (controlled vocabulary), including Both=Germline+Somatic
+OTH | Allele Frequency in Other Population : Allele Frequency in Other Population
+PATHO_RNG | Pathogenic Overlap Range : Range of Reciprocal Overlap with a Pathogenic Variant
+PUBMED_ID | Publication : Unique identifier from PubMed
+POP | Population : Subject population
+PDAT | Publication Date : Journal Publication date
+SMPL | Sample : Sample/subject ID of study or reference specimen
+SC | Sample Count : Number of samples in study
+GENDER | Sex of Subject : Sex of Subject (controlled vocabulary)
+SAS | Allele Frequency in South Asian Population : Allele Frequency in South Asian Population
+STDY | Study : Study ID, alias, display name, or publication name
+STYPE | Study Type : Study type assigned by NCBI
+SUBPSTAT | Subject Phenotype status : Flag indicating subject has a phenotype: 0=no; 1 = yes
+TAX | Taxonomy ID : Taxonomy ID
+VLEN | Variant Size : Size of variant
+VT | Variant Type : Type of variant region or call (controlled vocabulary)
+ZYG | Zygosity : Zygosity of a variant (controlled vocabulary)
+--------------------------------------------------------------
+gene | Gene | Gene database
+ALL | All Fields : All terms from all searchable fields
+UID | UID : Unique number assigned to a gene record
+FILT | Filter : Limits the records
+TITL | Gene/Protein Name : gene or protein name
+WORD | Text Word : Free text associated with record
+ORGN | Organism : scientific and common names of organism
+MDAT | Modification Date : The last date on which the record was updated
+CHR | Chromosome : Chromosome number or numbers; also 'mitochondrial', 'unknown' properties
+MV | Default Map Location : Chromosomal map location as displayed in MapViewer
+GENE | Gene Name : Symbol or symbols of the gene
+ECNO | EC/RN Number : EC number for enzyme or CAS registry number
+MIM | MIM ID : MIM number from OMIM
+DIS | Disease/Phenotype : Name(s) of diseases associated with this gene. When available, OMIM name will be used
+ACCN | Nucleotide/Protein Accession : Nucleotide or protein accession(s) associated with this gene
+UGEN | UniGene Cluster Number : UniGene cluster number for this gene
+PROP | Properties : Properties of Gene record
+CDAT | Creation Date : The date on which this record first appeared
+NCAC | Nucleotide Accession : nucleotide accessions of sequences
+NUID | Nucleotide UID : nucleotide uids of sequences
+PACC | Protein Accession : protein accessions
+PUID | Protein UID : protein uids
+PMID | PubMed ID : PubMed ids of accessions linked to the record
+TID | Taxonomy ID : taxonomy id
+GO | Gene Ontology : Gene Ontology
+DOM | Domain Name : Domain Name
+DDAT | Date Discontinued : The date on which the record was discontinued
+CPOS | Base Position : Chromosome base position
+GFN | Gene Full Name : Gene full name
+PFN | Protein Full Name : Protein full name
+GL | Gene Length : Gene length
+XC | Exon Count : Exon count
+GRP | Group : Relationships for this gene
+PREF | Preferred Symbol : Preferred symbol of the gene
+AACC | Assembly Accession : Assembly accession
+ASM | Assembly Name : Assembly name
+EXPR | Expression/Tissues : Gene expression
+--------------------------------------------------------------
+gds | GEO DataSets | GEO DataSets
+ALL | All Fields : All terms from all searchable fields
+UID | UID : Unique number assigned to publication
+FILT | Filter : Limits the records
+ORGN | Organism : exploded organism names
+ACCN | GEO Accession : accession for GDS (DataSet), GPL (Platform), GSM (Sample), GSE (Series)
+TITL | Title : Words in title of record
+DESC | Description : Text from description, summary and other similar fields
+SFIL | Supplementary Files : Supplementary Files
+ETYP | Entry Type : Entry type (DataSet or Series)
+STYP | Sample Type : Sample type
+VTYP | Sample Value Type : type of values, e.g. log ratio, count
+PTYP | Platform Technology Type : Platform technology type
+GTYP | DataSet Type : type of dataset
+NSAM | Number of Samples : Number of samples
+SRC | Sample Source : sample source
+AUTH | Author : author of the GEO Sample, Platform or Series
+INST | Submitter Institute : institute, or organization affiliatedd with contributers
+NPRO | Number of Platform Probes : number of platform probes
+SSTP | Subset Variable Type : subset variable type
+SSDE | Subset Description : subset description
+GEID | Reporter Identifier : name or identifier for the spot, e.g. GenBank, UniGene ID, Locus Link ID etc.
+PDAT | Publication Date : publication date from the GEO related entities
+UDAT | Update Date : date
+TAGL | Tag Length : Tag/Signature length for SAGE/MPSS
+RGSE | Related Series : Related Series
+RGPL | Related Platform : Related Platform
+MESH | MeSH Terms : Medical Subject Headings
+PROJ | Project : Project
+ATNM | Attribute Name : Attribute Name
+ATTR | Attribute : Attribute
+PROP | Properties : Properties
+--------------------------------------------------------------
+geoprofiles | GEO Profiles | Genes Expression Omnibus
+ALL | All Fields : All terms from all searchable fields
+UID | UID : Unique number assigned to publication
+FILT | Filter : Limits the records
+ORGN | Organism : Exploded organism names
+ACCN | GEO Accession : Accession for GDS (DataSet), GPL (Platform), GSM (Sample), GSE (Series)
+GDST | GDS Text : GDS text from title and description
+GEOT | GEO Description/Title Text : Sample titles
+RTYP | Platform Reporter Type : Platform reporter type, e.g. genbank, clone, orf
+GTYP | DataSet Type : Type of dataset
+VTYP | Sample Value Type : Sample value type, e.g. log ratio, count
+NSAM | Number of Samples : Number of samples
+SRC | Sample Source : Sample source
+ID | ID_REF : Spot ID from GEO Platform, SAGE tag, Affy ProbeSet ID
+NAME | Reporter Identifier : Name or identifier for the spot, e.g. GenBank accession, CLONE_ID, ORF etc.
+SYMB | Gene Symbol : Gene symbol (name) from Entrez-Gene or Entrez-UniGene.
+GDSC | Gene Description : Gene Description
+RSTD | Ranked Standard Deviation : Ranked standard deviation
+RMAX | Max Value Rank : Maximal value of ranks
+RMIN | Min Value Rank : Minimal value of ranks
+FINF | Flag Information : Indicates an interesting or notable uid in the GDS context
+FTYP | Flag Type : Type of flag that indicates a uid of interest, or outliers etc.
+GI | GI : GenBank Identifier
+ATYP | Annotation Type : Type of annotation (gene, unigene, nucleotide)
+GO | Gene Ontology : Gene Ontology
+CHR | Chromosome : Chromosomes
+CPOS | Base Position : Chromosome base position
+--------------------------------------------------------------
+medgen | MedGen | Medgen Database
+ALL | All Fields : All terms from all searchable fields
+UID | UID : Unique number assigned to each record
+FILT | Filter : Limits the records
+ACCN | Accession : concept identifier for the record
+TITL | Title : Full name of the concept from the top-ranked vocabulary
+PROP | Properties : Classification by source qualifiers and molecule type
+MDAT | Modification Date : Date of last update
+WORD | Text Word : Free text associated with record
+DEFN | Definition : Text from the definition of the concept
+VOCB | Vocabulary : Classification by source qualifiers and molecule type
+XTIT | ExactTitle : Exact Title
+CODE | Source ID : Any identifier used by any vocabulary
+REFR | Reference : Authors and titles of citations
+CHR | Chromosome : Chromosome number; also 'mitochondrial', 'unknown' properties
+CLIN | Clinical Features : Clinical features of disorder integrated from OMIM and Human Phenotype Ontology (HPO)
+GENE | Gene Name : Name of gene associated with record
+CPOS | Base Position : Chromosome base position
+OID | MIM ID : Unique number assigned to OMIM record
+GFN | Gene Full Name : Gene full name
+KWD | Keyword : Keyword relevant to the concept
+MINH | Mode Of Inheritance : Mode of inheritance
+SNM | SNOMED CT CUI : SNOMED Concept ID
+GTIT | Guideline title : Guideline title
+ACR | Acronym : Acronym
+--------------------------------------------------------------
+mesh | MeSH | MeSH Database
+ALL | All Fields : All terms from all searchable fields
+UID | UID : Unique number assigned to publication
+FILT | Filter : Limits the records
+TN | Tree Number : Tree Number
+MESH | MeSH Terms : MeSH Terms
+SUBS | Substance Name : Substance Name
+WORD | Text Word : Free text
+ALSO | See Also : See Also
+PREV | Previous Indexing : Previous Indexing
+NOTE | Scope Note : Scope Note
+REG | Registry Number : Registry Number
+MULT | Multi : Multi
+TYPE | Record Type : Record type - main heading, subheading, pharmacological action, substance name, publication type
+MHUI | MeSH Unique ID : NLM MeSH Browser Unique ID
+--------------------------------------------------------------
+nlmcatalog | NLM Catalog | NLM Catalog Database
+ALL | All Fields : All terms from all searchable fields
+UID | UID : Unique number assigned to publication
+FILT | Filter : Limits the records
+ITAG | Abstract/Index Tags : Abstract/Index Tags
+AUTH | Author : Author(s) of publication
+FULL | Author Full Name : Full Names of Authors
+CALL | Call Number : Call Number
+CNAM | Corporate/Conference Name : Corporate/Conference Name
+ITEM | Item Type : Item Type
+JOUR | Journal : Journal
+LANG | Language : Language of publication
+RTYP | Resource Type : Resource Type
+MESH | MeSH Terms : Medical Subject Headings assigned to publication
+MAJR | MeSH Major Topic : MeSH terms of major importance to publication
+SUBH | MeSH Subheading : Additional specificity for MeSH term
+OLIO | Olio : Olio
+OTHR | Other Number : Other Number
+OTRM | Other Term : Other terms associated with publication
+PERS | Personal Name as Subject : Personal Name as Subject
+FPER | Personal Full Name as Subject : Full Personal Name as Subject
+CNTY | Country of Publication : Country of publication
+PDAT | Publication Year : Year of publication
+PSTA | Publication Status : Status of publication
+PTYP | Publication Type : Type of publication (e.g., review)
+PUBL | Publisher : Publisher
+SERI | Series : Series
+TITL | Title : Words in title of publication
+URL | URL : URL
+NID | NLM Unique ID : NLM Unique ID
+EDAT | Entrez Date : Date publication first accessible through Entrez
+AI | Authority Information : Authority Information
+AIID | AIID : Authority ID
+WORD | Text Word : Text
+ST | Broad Subject Term : Broad Subject Term
+CFS | Current Format Status : Current Format Status
+XS | Indexing Subset : Indexing Subset
+ISO | ISO Abbreviation : ISO Abbreviation
+SYR | Publication Start Year : Publication Start Year
+EYR | Publication End Year : Publication End Year
+IS | ISSN : ISSN
+MABR | NLM Title Abbreviation : NLM Title Abbreviation
+MULT | Multi : Multi
+--------------------------------------------------------------
+omim | OMIM | OMIM records
+ALL | All Fields : All terms from all searchable fields
+UID | MIM ID : Unique number assigned to OMIM record
+FILT | Filter : Limits the records
+TITL | Title : Words in title of record
+WORD | Text Word : Free text associated with record
+AUTH | Contributor : Contributor to OMIM record
+CLIN | Clinical Synopsis : Clinical features of disorder
+MDAT | Modification Date : The last date on which the record was updated
+ALVR | Allelic Variant : A subset of disease-producing mutations
+MDHS | Modification History : All dates on which the record was updated
+REFR | Reference : Authors and titles of citations
+GMAP | Gene Map : Chromosomal map location
+DSDR | Gene Map Disorder : Text word in disorder
+GENE | Gene Name : Name of gene associated with record
+ECNO | EC/RN Number : EC number for enzyme or CAS registry number
+CHR | Chromosome : Chromosome number; also 'mitochondrial', 'unknown' properties
+EDTR | Editor : A username of an OMIM record Editor
+PROP | Properties : Properties of OMIM record
+PDAT | Publication Date : The date on which this record first appeared
+CSK | Clinical Synopsis Key : The keyword designating a part of the Clinical Synopsis
+CSED | Clinical Synopsis Editor : A username of an OMIM record Editor
+CSDT | Clinical Synopsis Date : The last date on which the Clinical Synopsis was updated
+--------------------------------------------------------------
+orgtrack | Orgtrack | Orgtrack Database
+ALL | All Fields : All terms from all searchable fields
+UID | UID : Unique number assigned to organization
+FILT | Filter : Limits the records
+WORD | Text Word : Free text associated with record
+WRD1 | Text Word 1 : Free text associated with record with higher score then regular TEXT field
+PROP | Properties : Properties of this record
+TITL | Organization name : Lab or Clinic name including institution and department
+CITY | Organization City : City in which the organization is located
+ST | Organization State or province : State, province or other political subdivision  in which the organization is located
+CTRY | Organization Country : Country in which the organization is located
+LOC | Organization Location : City, State, Country in which the organization is located
+PCOD | Organization  postal code : Postal code for the organization
+DIR | Organization Director(s) : Full names of  director(s) with credentials
+STFF | Organization Staff : full names of non-director staff with credentials
+LS | Lab Service name : Lab Service name
+TYPE | Type of organization : category of an organization, e.g. laboratory, clinic, LSDB
+MDAT | Modification Date : The last date on which the record was updated
+TNO | Number of tests offered : Number of tests offered by this organization
+SNO | SERVICE NUMBER : Unique identifier for the state or province
+MTOD | Name of Method : method name
+MCAT | name for method category : name for method category
+TCAT | name for method top category : name for method top category
+LCRT | laboratory certification : laboratory certification
+CID | Country ISO code : Country ISO code
+SID | State ISO code : State ISO code
+TCID | Top Method Category ID : Top Method Category ID
+CTID | Method Category ID : Method Category ID
+DTCT | Disease and Top Method Category ID : Disease and Top Method Category ID
+DCAT | Disease and Method Category ID : Disease and Method Category ID
+MTID | Test Method ID : Test Method ID
+DID | Disease BioConcepts Entrez ID : Disease BioConcepts Entrez ID
+LSID | Lab Service ID : Lab Service ID
+DCUI | Disease BioConcepts concept id : Concept identifier from BioConcepts for a disease
+ORGN | Organism : scientific and common names of organism
+DASV | Disease and Additional Service ID : Disease and Additional Service ID
+ASID | Additional Service ID : Additional Service ID
+SYMB | Gene Symbol : Symbol or symbols of the gene
+--------------------------------------------------------------
+pmc | PMC | PubMed Central
+ALL | All Fields : All terms from all searchable fields
+UID | UID : Unique number assigned to publication
+FILT | Filter : Limits the records
+PMID | PubMed ID : Unique identifier from PubMed
+AUTH | Author : Author(s) of publication
+TITL | Title : A short descriptive name
+PDAT | Publication Date : Date of publication
+ABST | Abstract : Abstract
+CAPT | Figure/Table Caption : Caption
+SECT | Section Title : Section Title
+REFR | Reference : Reference
+REFA | Reference Author : Name of Reference author(s)
+RPID | Reference PubMed ID : Reference Unique identifier from PubMed
+JOUR | Journal : Source journal of publication
+VOL | Volume : Volume number of publication
+ISS | Issue : Issue number of publication
+PAGE | Pagination : Page number(s) of publication
+EPDT | Electronic Publication Date : Date publication first accessible through Entrez
+WORD | Text Word : Free text associated with publication
+ARTI | Body - All Words : Article Body
+KWD | Body - Key Terms : Keyword
+METH | Methods - Key Terms : Keyword in the Methods Section
+MESH | MeSH Terms : Medical Subject Headings assigned to publication
+MAJR | MeSH Major Topic : Medical terms of major importance assigned to publication
+SUBH | MeSH Subheading : Additional specificity for MeSH Terms
+ECNO | EC/RN Number : EC number for enzyme or CAS registry number
+SUBS | Supplementary Concept : CAS chemical name or MEDLINE Substance Name
+AFFL | Affiliation : Author's institutional affiliation and address
+LDAT | PMC Live Date : PMC live date
+ORGN | Organism : scientific and common names of organism
+ONSN | Organism unsynonymized : unsynonymized organism names
+ACCN | Accession : Accession number of sequence
+EDAT | Entrez Date : Entrez date
+DOI | DOI : Digital Object Identifier
+FULL | Full Author Name : Full Author Name(s) of publication
+GRNT | Grant Number : NIH Grant Numbers
+ACK | Acknowledgments : Acknowledgments
+PPDT | Print Publication Date : Print Publication Date
+--------------------------------------------------------------
+popset | PopSet | PopSet sequence record
+ALL | All Fields : All terms from all searchable fields
+UID | UID : Unique number assigned to each sequence
+FILT | Filter : Limits the records
+WORD | Text Word : Free text associated with record
+TITL | Title : Words in definition line
+KYWD | Keyword : Nonstandardized terms provided by submitter
+AUTH | Author : Author(s) of publication
+JOUR | Journal : Journal abbreviation of publication
+VOL | Volume : Volume number of publication
+ISS | Issue : Issue number of publication
+PAGE | Page Number : Page number(s) of publication
+ORGN | Organism : Scientific and common names of organism, and all higher levels of taxonomy
+ACCN | Accession : Accession number of sequence
+PACC | Primary Accession : Does not include retired secondary accessions
+GENE | Gene Name : Name of gene associated with sequence
+PROT | Protein Name : Name of protein associated with sequence
+ECNO | EC/RN Number : EC number for enzyme or CAS registry number
+PDAT | Publication Date : Date sequence added to GenBank
+MDAT | Modification Date : Date of last update
+SUBS | Substance Name : CAS chemical name or MEDLINE Substance Name
+PROP | Properties : Classification by source qualifiers and molecule type
+SQID | SeqID String : String identifier for sequence
+GPRJ | BioProject : BioProject
+FKEY | Feature key : Feature annotated on sequence
+PCNT | Protein Count : Number of proteins in the set
+NCNT | Nucleotide Count : Number of nucleotides in the set
+STRN | Strain : Strain
+ISOL | Isolate : Isolate
+CULT | Cultivar : Cultivar
+BRD | Breed : Breed
+--------------------------------------------------------------
+proteinclusters | Protein Clusters | Protein Cluster record
+ALL | All Fields : All terms from all searchable fields
+UID | UID : Unique number assigned to publication
+FILT | Filter : Limits the records
+ACCN | Accession : Accession
+PMID | PubMed ID : PubMed ID
+TITL | Title : Title
+GENE | Gene Name : Gene Name
+GSYN | Gene Synonym : Gene Synonym
+COG | COG : Clusters of Orthologous Groups of proteins
+ECNO | EC/RN Number : EC number for enzyme or CAS registry number
+HMAP | HAMAP : HAMAP
+KO | KO : KO
+PROT | Protein Name : Name of protein
+PACC | Protein Accession : Protein Accession
+LTAG | Locus Tag : Locus Tag
+SLEN | Sequence Length : Length of sequence
+ORGN | Organism : Scientific and common names of organism, and all higher levels of taxonomy
+TXID | Taxonomy ID : Taxonomy ID
+CDAT | Creation Date : Creation Date
+MDAT | Modification Date : Modification Date
+SIZE | Size : Size
+DOM | Domain Name : Domain Name
+DOMS | Domains : Domains
+PUID | Protein GI : Protein GI
+PARA | Paralogs : Paralogs
+COGG | COG group : COG group
+AVGL | Average Length : Average Length
+PROP | Properties : Properties
+TPUB | Total Publications : Total Publications
+SPCN | SwissProt Accession : SwissProt Accession
+CONS | Conserved In : Conserved In
+HMM | HMM Accession : HMM Accession
+--------------------------------------------------------------
+pcassay | PubChem BioAssay | PubChem BioAssay Database
+ALL | All Fields : All terms from all searchable fields
+UID | Assay ID : Assay ID
+FILT | Filter : Limits the records
+ANAM | Assay Name : AssayName
+ADES | Assay Description : AssayDescription
+APRL | Assay Protocol : AssayProtocol
+CCMT | Categorized Comment : CategorizedComment
+ACMT | Assay Comment : AssayComment
+ASRD | Assay Source ID : External assay source identifier
+ACMD | Activity Outcome Method : ActivityOutcomeMethod
+SNME | Source Name : SourceName
+CSNM | Current Source Name : CurrentSourceName
+DDAT | Deposit Date : DepositDate
+MDAT | Modify Date : ModifyDate
+JNAM | Journal Name : JournalName
+HDAT | Hold Until Date : HoldUntilDate
+AC | Active Sid Count : ActiveSidCount
+TSC | Total Sid Count : TotalSidCount
+TCNT | Target Count : TargetCount
+PCC | Probe Cid Count : ProbeCidCount
+PSC | Probe Sid Count : ProbeSidCount
+NARD | Nucleic Acid Reagent ID : NucleicAcidReagentID
+PTN | Protein Target Name : ProteinTargetName
+GSYM | Gene Symbol : GeneSymbol
+CCT | Categorized Comment Title : The name of the categorized comment
+PTGI | Protein Target GI : ProteinTargetGI
+BSID | BioSystems ID : ID of the BioSystems, via Protein Target
+PIGI | Pig GI : PigGI
+RTGI | RNA Target GI : RNATargetGI
+SYNT | Synonym Tested : SynonymTested
+SRCC | Source Category : SourceCategory
+TXNM | Taxonomy Name : TaxonomyName
+GRN | Grant Number : GrantNumber
+NSAM | Number of Sids With Activity Concentration micromolar : NumberofSidsWithActivityConcmicromolar
+NSAN | Number of Sids With Activity Concentration nanomolar : NumberofSidsWithActivityConcnanomolar
+ORGN | Organism : Scientific and common names of organism, and all higher levels of taxonomy
+APRJ | Assay Project : The name of the summary assay to which this assay is related by same project
+CELL | Cell Line : CellLine
+GBAC | GenBank Accession : GenBankAccession
+UPAC | UniProt Accession : UniProtAccession
+DTMD | Detection Method : DetectionMethod
+--------------------------------------------------------------
+protfam | Protein Family Models | protfam DB
+ALL | All Fields : All terms from all searchable fields
+Uid | UID : Unique number assigned to a record
+FILT | Filter : Limits the records
+PN | ProductName : The HMM, BlastRule or Sparcle architecture name
+PNO | ProductNameOrig : The original HMM or BlastRule name
+DESC | Description : Short descriptive text that expands on ProductName
+FamAcc | FamilyAccession : The family accession
+FamAccOrig | FamilyAccessionOrig : The original family accession of an HMM or BlastRule record
+FamType | FamilyType : The family type (equivalog, subfamily, ...) of an HMM or BlastRule record
+METH | Method : Method by which the protein family was constructed (Sparcle, HMM or BlastRule)
+EC | ECNumber : An EC number associated with the record
+ECTL | ECTitle : The EC title associated with an EC number pertinent to the record
+SN | Shortname : A short name for this family
+CDDTL | CDDTitle : The title of a conserved domain used as Sparcle evidence
+CDDDesc | CDDDescription : The description of a conserved domain record used as Sparcle evidence
+GS | GeneSymbol : The gene symbol of a gene used as evidence
+GD | GeneDescription : The description of a gene used as evidence
+PMID | PubmedID : A publication associated with the record
+PDBTL | PDBTitle : The title of any PDB protein record used as Sparcle evidence
+RL | ReviewLevel : Whether a Sparcle record is curated or unreviewed.
+PDAT | PublicationDate : The date the current verion of record was released
+GO | GOTermId : The GO-assigned identifier of a GO term, including the GO: prefix
+GOONT | GOOntology : One of the three GO ontologies (cellular_component, molecular_function, biological_process)
+GODE | GODescription : The GO term description
+--------------------------------------------------------------
+pccompound | PubChem Compound | PubChem Compound Database
+ALL | All Fields : All terms from all searchable fields
+UID | CompoundID : Compound ID
+FILT | Filter : Limits the records
+SRC | SourceName : Source Name
+SRCC | SourceCategory : Source Category
+CDAT | CreateDate : Record Create Date
+INCH | InChI : InChI
+IKEY | InChIKey : InChI Key
+CSYN | CompleteSynonym : Complete Synonym
+SYNO | Synonym : Synonym
+MSHT | MeSHTerm : MeSH Term
+PHMA | PharmAction : Pharmacological Action
+ELMT | Element : Element
+MW | MolecularWeight : Molecular Weight
+TFC | TotalFormalCharge : Total Formal Charge
+UPAC | IUPACName : IUPAC Name
+XLGP | XLogP : XLogP
+CPLX | Complexity : Complexity
+RBC | RotatableBondCount : Rotatable Bond Count
+HBDC | HydrogenBondDonorCount : Hydrogen Bond Donor Count
+HBAC | HydrogenBondAcceptorCount : Hydrogen Bond Acceptor Count
+HAC | HeavyAtomCount : Heavy Atom Count
+ACC | AtomChiralCount : Atom Chiral Count
+ACDC | AtomChiralDefCount : Atom Chiral Defined Count
+ACUC | AtomChiralUndefCount : Atom Chiral Undefined Count
+BCC | BondChiralCount : Bond Chiral Count
+BCDC | BondChiralDefCount : Bond Chiral Defined Count
+BCUC | BondChiralUndefCount : Bond Chiral Undefined Count
+IAC | IsotopeAtomCount : Isotope Atom Count
+CUC | CovalentUnitCount : Covalent Unit Count
+AC | ActiveAidCount : Active AID Count
+TAC | TotalAidCount : Total AID Count
+SID | SubstanceID : Substance ID
+TPSA | TPSA : TPSA
+EMAS | ExactMass : Exact Mass
+MMAS | MonoisotopicMass : Monoisotopic Mass
+PAID | PharmActionID : Pharmacological Action ID
+STID | StructureID : Depositor Associated Structure ID
+DCSY | DepositorCompleteSynonym : Depositor Complete Synonym
+DSYN | DepositorSynonym : Depositor Synonym
+DCNT | DepositorCount : Depositor Count
+--------------------------------------------------------------
+pcsubstance | PubChem Substance | PubChem Substance Database
+ALL | All Fields : All terms from all searchable fields
+UID | SubstanceID : Substance ID
+FILT | Filter : Limits the records
+SRC | SourceName : Source Name
+CSN | CurrentSourceName : Current Source Name
+SRID | SourceID : Source ID
+SRCC | SourceCategory : Source Category
+SRD | SourceReleaseDate : Source Release Date
+DDAT | DepositDate : Deposit Date
+MDAT | ModifyDate : Modification Date
+CSYN | CompleteSynonym : Complete Synonym
+SYNO | Synonym : Synonym
+CMT | Comment : Comment
+TAC | TotalAidCount : Total AID Count
+SCID | StandardizedCID : Standardized CID
+CCID | ComponentCID : Component CID
+CID | CompoundID : Compound ID
+ASRC | AssaySourceName : Assay Source Name
+STID | StructureID : Structure ID
+HUD | HoldUntilDate : Hold Until Date
+ADAT | AvailableDate : Available Date
+--------------------------------------------------------------
+seqannot | SeqAnnot | SeqAnnot Database
+ALL | All Fields : All terms from all searchable fields
+UID | UID : Unique number assigned to publication
+FILT | Filter : Limits the records
+ACCN | Accession : Accession number of sequence
+TITL | Title : Words in definition line
+PROP | Properties : Classification by source qualifiers and molecule type
+WORD | Text Word : Free text associated with record
+ORGN | Organism : Scientific and common names of organism, and all higher levels of taxonomy
+AUTH | Author : Author(s) of publication
+PDAT | Publication Date : Date sequence added to GenBank
+MDAT | Modification Date : Date of last update
+ASSM | Target Assembly : Target Assembly
+ANNT | Annotation Type : Attribute
+VCTX | Viewer_Context : Viewer Context
+--------------------------------------------------------------
+snp | SNP | Single Nucleotide Polymorphisms
+ALL | All Fields : All terms from all searchable fields
+UID | UID : Unique number assigned to publication
+FILT | Filter : Limits the records
+RS | Reference SNP ID : Clustered SNP ID (rs)
+CHR | Chromosome : chromosomes
+GENE | Gene Name : locus link symbol
+HAN | Submitter Handle : Submitter Handle
+ACCN | Accession : nucleotide accessions
+GENE_ID | Gene ID : Gene ID
+FXN | Function Class : dbSNP Functional consequence class
+GTYP | Genotype : Genotype info
+SS | Submitter SNP ID : Submitter ID
+VARI | Allele : Allele
+SCLS | SNP Class : SNP class
+CPOS | Base Position : Chromosome base position
+WORD | Text Word : Free text associated with record
+SIDX | SNP Index : SNP Index
+CLIN | Clinical Significance : Variations with clinical effects or significances
+GMAF | Global Minor Allele Frequency : Minor Allele Frequency derived from global population (ie. 1000G)
+VALI | Validation Status : Validation status
+CPOS_GRCH37 | Base Position Previous : Chromosome base position on previous assembly version
+ORGN | Organism : Organism
+ALFA_EUR | ALFA European population Minor Allele Frequency : ALFA European Minor Allele Frequency
+ALFA_AFR | ALFA African population Minor Allele Frequency : ALFA African population Minor Allele Frequency
+ALFA_ASN | ALFA Asian population Minor Allele Frequency : ALFA Asian population Minor Allele Frequency
+ALFA_LAC | ALFA Latin American 1 population Minor Allele Frequency : ALFA Latin American 1 population Minor Allele Frequency
+ALFA_LEN | ALFA Latin American 2 population Minor Allele Frequency : ALFA Latin American 2 population Minor Allele Frequency
+ALFA_SAS | ALFA South Asian population Minor Allele Frequency : ALFA South Asian population Minor Allele Frequency
+ALFA_OTR | ALFA Other population Minor Allele Frequency : ALFA Other population Minor Allele Frequency
+--------------------------------------------------------------
+sra | SRA | SRA Database
+ALL | All Fields : All terms from all searchable fields
+UID | UID : Unique number assigned to publication
+FILT | Filter : Limits the records
+ACCN | Accession : Accession number of sequence
+TITL | Title : Words in definition line
+PROP | Properties : Classification by source qualifiers and molecule type
+WORD | Text Word : Free text associated with record
+ORGN | Organism : Scientific and common names of organism, and all higher levels of taxonomy
+AUTH | Author : Author(s) of publication
+PDAT | Publication Date : Date sequence added to GenBank
+MDAT | Modification Date : Date of last update
+GPRJ | BioProject : BioProject
+BSPL | BioSample : BioSample
+PLAT | Platform : Platform
+STRA | Strategy : Strategy
+SRC | Source : Source
+SEL | Selection : Selection
+LAY | Layout : Layout
+RLEN | ReadLength : Percent of aligned reads
+ACS | Access : Access is public or controlled
+ALN | Aligned : Percent of aligned reads
+MBS | Mbases : Size in megabases
+--------------------------------------------------------------
+taxonomy | Taxonomy | Taxonomy db
+ALL | All Fields : All terms from all searchable fields
+UID | Taxonomy ID : Unique number assigned to publication
+FILT | Filter : Limits the records
+SCIN | Scientific Name : Scientific name of organism
+COMN | Common Name : Common name of organism
+TXSY | Synonym : Synonym of organism name
+ALLN | All Names : All aliases for organism
+NXLV | Next Level : Immediate parent in taxonomic hierarchy
+SBTR | Subtree : Any parent node in taxonomic hierarchy
+LNGE | Lineage : Lineage in taxonomic hierarchy
+GC | Nuclear Genetic Code : Nuclear genetic code
+MGC | Mitochondrial Genetic Code : Mitochondrial genetic code
+PGC | Plastid Genetic Code : Plastid genetic code
+TXDV | Division : GenBank division
+RANK | Rank : Hierarchical position (e.g., order, genus)
+EDAT | Entrez Date : Date record first accessible through Entrez
+MDAT | Modification Date : Date of last update
+PROP | Properties : Property defined on particular node (e.g., terminal node)
+WORD | Text Word : Free text associated with record
+NTOK | Name Tokens : Name tokens associated with organism names
+HGC | Hydrogenosome Genetic Code : Hydrogenosome genetic code
+--------------------------------------------------------------
+biocollections | Biocollections | Biocollections db
+ALL | All Fields : All terms from all searchable fields
+UID | uid : Unique number assigned to each collection
+FILT | Filter : Limits the records
+CODE | Institution code : Institution code
+CCDE | Collection code : Collection code
+NAME | Institution name : Full institution name
+WORD | Text Word : token from NAME field
+CTRY | Country name : Country name
+CDRN | BioCollections for given institution : BioCollections for given institution
+PRNT | Institution for given collection : Institution for given collection
+PROP | Properties : Property defined on particular institution
+MDAT | Modification Date : Date of last update
+UICODE | Unique institution code : Institution code
+CNAME | Collection name : Full collection name
+CODES | all codes : All  codes
+NAMES | All names : All names
+--------------------------------------------------------------
+gtr | GTR | GTR Database
+ALL | All Fields : All terms from all searchable fields
+UID | UID : Unique number assigned to publication
+FILT | Filter : Limits the records
+WORD | Text Word : Free text associated with record
+WRD1 | Text Word 1 : Free text associated with record with higher score then regular TEXT field
+PROP | Properties : Properties of this record
+ORG | Organization names : Lab or Clinic name including institution and department
+OID | Organization UID : Unique number for this lab/clinic
+CITY | Organization City : Lab or clinic city
+STATE | Organization State : Lab or clinic State or province
+COUNTRY | Organization Country : Lab or clinic Country
+POSTCODE | Organization postcode : Lab or clinic zip or postcode
+DIRECTOR | Organization Director(s) : Lab or clinic director(s)
+STAFF | Organization Staff : Lab or clinic Staff name
+LS | Lab Service name : Lab Service name
+GTRACC | Accession for GTR test : Accession for GTR test
+MDAT | Modification Date : The last date on which the record was updated
+NAME | name for this test : name for this test
+ALT | Alternate name : alternate short and full names for test
+TESTDIS | disease name for this test : preferred name of disease by lab
+SPECIMEN | Specimen options for test : Specimen options for test
+TITL | title of this clinvar assertion : title of this clinvar assertion
+CVACC | Accession for clinvar assertion : Accession for clinvar assertion
+DCUI | Disease BioConcepts concept id : Concept identifier from BioConcepts for a disease
+DISNAME | Name of Disease : preferred full name
+GCUI | Gene BioConcepts concept id : Concept identifier from BioConcepts for a gene
+GENEID | UID for a record from Gene : Unique number for this record
+SYMB | Gene Symbol : Symbol or symbols of the gene
+GENENAME | Name of Gene : preferred full name
+GENEMIM | MIM number for the Gene : MIM number for the Gene
+PROTNAME | Name of Protein : preferred full name
+MTOD | Name of Method : method name
+MCAT | name for method category : name for method category
+TCAT | name for method top category : name for method top category
+LCRT | laboratory certification : laboratory certification
+CID | Country ISO code : Country ISO code
+SID | State ISO code : State ISO code
+TCID | Top Method Category ID : Top Method Category ID
+CTID | Method Category ID : Method Category ID
+MTID | Test Method ID : Test Method ID
+DID | Disease BioConcepts Entrez ID : Disease BioConcepts Entrez ID
+ORGN | Organism : scientific and common names of organism
+TARPOP | Target Population option for the test : Target Population option for the test
+CLNUTL | Clinical Utility option for the test : Clinical Utility option for the test
+CLNVAL | Clinical Validity option for the test : Clinical Validity option for the test
+GENENUM | Number of genes : Number of genes explicitly listed as being targeted in a test
+pharma | Pharmacogenetic response condition : Names of conditions that are identified as being pharmacogenetic responses
+STID | Specimen Type ID : Specimen Type ID
+TESTTARGET | Test target : Test target
+ALYT | Analyte : Analyte
+CHRG | Chromosomal region : Chromosomal region/Mitochondrion
+TESTGENE | Test gene : Test gene symbol or name
+MICROBE | Microbe : Microbe Name
+INFECTDIS | Infectious Disease : Infectious Disease
+MICROBE_GENE | Microbe Gene : Gene that identified Microbe
+MICROBE_PROTEIN | Microbe Protein : Protein that identified Microbe
+MICROBE_ANALYTE | Microbe Analyte : Analyte that identified Microbe
+MICROBE_CHRLOC | Microbe Chromosomal Location : Chromosomal Location that identified Microbe
+MICROBE_VARIANT | Microbe Variant : Gene that identified Microbe
+MICROBE_VARGENE | Microbe Gene related to Variant : Gene related to Variant that identified Microbe
+--------------------------------------------------------------
