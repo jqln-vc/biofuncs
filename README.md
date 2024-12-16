@@ -1,4 +1,4 @@
-# Biofuncs: biology functions 
+# Biofuncs: Biology Functions 
 
 Miscellanea of functions related to biological analysis, mostly genomics oriented.
 
@@ -15,4 +15,5 @@ Miscellanea of functions related to biological analysis, mostly genomics oriente
    
 ## References 
 
+<b>Biopython Documentation 1.84.<b> Updated on 2024. Available at [biopython.org/docs](https://biopython.org/docs/1.84/).
 COMPEAU, Phillip; PEVZNER, Pavel. <b>Bioinformatics Algorithms: An Active Learning Approach Vol.1</b>, 2ed. La Jolla: Active Learning Publishers, 2015.
