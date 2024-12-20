@@ -91,6 +91,28 @@ def revc(dna_string: str, file=False) -> str:
     return revc
 
 
-def fib():
-    pass
-revc(sample_dataset, True)
+def fib(n: int, k: int) -> int:
+    """Function for a fibonacci_sequence of n iterations, with k multiplications.
+
+    Args:
+        n (int): number of iterations.
+        k (int): factor of influence of 2nd previous term on current term.
+            k == 1: each term is the sum of previous terms.
+            k < 1: the 2nd previous term has less influence on current term.
+            k > 1: the 2nd previous term has more influence on current term.
+
+    Returns:
+        int: The sum of the sequence after the n iteration.
+    """
+    # f(n) = f(n − 1) + k × f(n − 2)
+    if n == 1 or n == 2:
+        return 1
+    
+    sequence = [1, 1]
+    for i in range(2, n):
+        next = sequence[i-1] + k * sequence[i-2]
+        sequence.append(next)
+    
+    return sequence[-1]
+    
+print(fib(31, 4))
